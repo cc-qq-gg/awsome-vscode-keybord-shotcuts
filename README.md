@@ -20,11 +20,6 @@ Welcome to our GitHub repository dedicated to enhancing your coding experience i
 2. **Configure VSCode:** Follow the instructions in our documentation to import the shortcut configurations into your VSCode settings.
 3. **Start Coding:** Once configured, dive into your coding projects and experience the seamless workflow enabled by our shortcut configurations.
 
-### Contributing
-We welcome contributions from the VSCode community to make this repository even more comprehensive and valuable. Whether it's suggesting new shortcuts, refining existing configurations, or providing feedback, your input is highly appreciated. See our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
-### Support
-If you encounter any issues, have questions, or simply want to connect with fellow VSCode enthusiasts, join our community on [Discord](https://discord.gg/vscode-shortcuts)!
 
 ### Spread the Word
 Help us spread the word about this repository! Share it with your friends, colleagues, and on social media platforms to empower more developers with efficient coding shortcuts.
