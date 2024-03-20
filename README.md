@@ -24,8 +24,6 @@ Welcome to our GitHub repository dedicated to enhancing your coding experience i
 ### Spread the Word
 Help us spread the word about this repository! Share it with your friends, colleagues, and on social media platforms to empower more developers with efficient coding shortcuts.
 
-### License
-This project is licensed under the [MIT License](LICENSE), allowing for widespread use and modification.
 
 ---
 
