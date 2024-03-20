@@ -27,9 +27,6 @@ Help us spread the word about this repository! Share it with your friends, colle
 ### License
 This project is licensed under the [MIT License](LICENSE), allowing for widespread use and modification.
 
-### Start Coding Faster Today!
-Ready to turbocharge your coding experience? Dive into our shortcut configurations and elevate your coding game in VSCode. Happy coding! 🚀
-
 ---
 
 **Disclaimer:** This repository is not affiliated with or endorsed by Visual Studio Code or Microsoft Corporation.
